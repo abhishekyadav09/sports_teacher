@@ -27,7 +27,7 @@
  * THE SOFTWARE.
  *
  * @package	CodeIgniter test
- * @author	EllisLab Dev Team
+ * @author	EllisLab Dev Team some other thing
  * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
  * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
